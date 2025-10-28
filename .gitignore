@@ -1,0 +1,33 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+~*
+*.swp
+*.swo
+*~
+
+# Archive Files (optional - uncomment if you don't want to track archives)
+# *.zip
+# *.rar
+# *.7z
+# *.tar
+# *.gz
+
+# Log Files
+*.log
+
+# Editor Directories and Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
